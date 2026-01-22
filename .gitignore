@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environments
+.venv/
+venv/
+tf_env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files (optional – see note below)
+# glucose_dataset.xlsx
+# model_performance.csv
